@@ -1,2 +1,2 @@
 # Nematic-Liquid-Crystals
-This experimental study explored the (Electrical) Freedericksz Transition observed in Liquid Crystals. 
+This experimental study explored the (Electrical) Freedericksz Transition observed in Liquid Crystals. For our study, the liquid crystal compound named 8CB was used. The optical property of Birefringence was studied, and the Freedericksz transition was used to calculate the value of splay elastic constant (k_11) and bend elastic constant (k_33). This was done towards the course: Physics Advanced Lab V: Soft Matter Physics/Complex Systems under Prof. (Dr) Pramoda Kumar at Ashoka University.
